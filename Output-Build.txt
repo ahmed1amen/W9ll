@@ -1,0 +1,6 @@
+﻿1>------ Build started: Project: W9ll Marketing, Configuration: Debug Any CPU ------
+1>D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9ll Marketing\Twitter\OOP\TwitterOBJECT.vb(115,9): warning BC42105: Function '<anonymous method>' doesn't return a value on all code paths. A null reference exception could occur at run time when the result is used.
+1>D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9ll Marketing\Twitter\OOP\TwitterOBJECT.vb(260,5): warning BC42353: Function 'Is_Valid_Login' doesn't return a value on all code paths. Are you missing a 'Return' statement?
+1>D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9ll Marketing\Twitter\OOP\TwitterOBJECT.vb(346,9): warning BC42105: Function '<anonymous method>' doesn't return a value on all code paths. A null reference exception could occur at run time when the result is used.
+1>  W9ll Marketing -> D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9ll Marketing\bin\Debug\W9ll Marketing.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

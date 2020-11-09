@@ -1,0 +1,48 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+W9LL Marketing Twitter
+</name>
+</assembly>
+<members>
+<member name="T:W9LL_Marketing_Twitter.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:W9LL_Marketing_Twitter.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:W9LL_Marketing_Twitter.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:W9LL_Marketing_Twitter.Application_Commands.TweetLimitDataTable_Control(System.String)">
+<CheckTweet>
+ For Check The Avalible tweet in every account
+ </CheckTweet>
+</member>
+<member name="F:W9LL_Marketing_Twitter.Frm_Add_Account.components">
+ <summary>
+ Required designer variable.
+ </summary>
+</member>
+<member name="M:W9LL_Marketing_Twitter.Frm_Add_Account.Dispose(System.Boolean)">
+ <summary>
+ Clean up any resources being used.
+ </summary>
+ <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+</member>
+<member name="M:W9LL_Marketing_Twitter.Frm_Add_Account.InitializeComponent">
+ <summary>
+ Required method for Designer support - do not modify
+ the contents of this method with the code editor.
+ </summary>
+</member>
+</members>
+</doc>

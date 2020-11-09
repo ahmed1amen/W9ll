@@ -1,0 +1,130 @@
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\obj\Debug\W9LL Marketing Instagram.vbprojAssemblyReference.cache
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\obj\Debug\W9LL_Marketing_Instagram.Frm_InstaVerify.resources
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\obj\Debug\W9LL_Marketing_Instagram.insta_Commenter.resources
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\obj\Debug\W9LL_Marketing_Instagram.Insta_Mulit_Commnet.resources
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\obj\Debug\W9LL_Marketing_Instagram.insta_Scrapper.resources
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\obj\Debug\W9LL_Marketing_Instagram.insta_scrapperfast.resources
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\obj\Debug\W9LL_Marketing_Instagram.InstgramClient.resources
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\obj\Debug\W9LL_Marketing_Instagram.frm_Sender.resources
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\obj\Debug\W9LL_Marketing_Instagram.Resources.resources
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\obj\Debug\W9LL_Marketing_Instagram.frm_Activation.resources
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\obj\Debug\W9LL Marketing Instagram.vbproj.GenerateResource.cache
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\obj\Debug\W9LL Marketing Instagram.exe.licenses
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\obj\Debug\W9LL Marketing Instagram.vbproj.CoreCompileInputs.cache
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\obj\Debug\W9LL_Marketing_Instagram.insta_LocationScrapper.resources
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\obj\Debug\W9LL_Marketing_Instagram.insta_MapsFiltration.resources
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\obj\Debug\W9LL_Marketing_Instagram.Maps.resources
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\W9LL Marketing Instagram.exe.config
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\W9LL Marketing Instagram.exe
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\W9LL Marketing Instagram.pdb
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\W9LL Marketing Instagram.xml
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\AutoUpdater.NET.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\DevExpress.Data.v19.1.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\DevExpress.Data.v19.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\DevExpress.Dialogs.v19.1.Core.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\DevExpress.Images.v19.1.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\DevExpress.Office.v19.1.Core.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\DevExpress.Utils.v19.1.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\DevExpress.XtraBars.v19.1.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\DevExpress.XtraDialogs.v19.1.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\GMap.NET.Core.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\GMap.NET.WindowsForms.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\HtmlAgilityPack.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\Newtonsoft.Json.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\System.Data.SQLite.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\AutoUpdater.NET.pdb
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\AutoUpdater.NET.xml
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\DevExpress.Data.v19.pdb
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\DevExpress.Data.v19.1.xml
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\DevExpress.Office.v19.1.Core.xml
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\DevExpress.XtraBars.v19.1.xml
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\DevExpress.XtraDialogs.v19.1.xml
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\HtmlAgilityPack.pdb
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\HtmlAgilityPack.xml
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\Newtonsoft.Json.xml
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\System.Data.SQLite.xml
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\System.Data.SQLite.dll.config
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\de\DevExpress.Dialogs.v19.1.Core.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\es\DevExpress.Dialogs.v19.1.Core.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\ja\DevExpress.Dialogs.v19.1.Core.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\ru\DevExpress.Dialogs.v19.1.Core.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\obj\Debug\W9LL Marketing Instagram.vbproj.CopyComplete
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\obj\Debug\W9LL Marketing Instagram.exe
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\obj\Debug\W9LL Marketing Instagram.xml
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\obj\Debug\W9LL Marketing Instagram.pdb
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\bin\Debug\GMap.NET.WindowsPresentation.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\obj\Debug\W9LL_Marketing_Instagram.Form1.resources
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing Instagram\obj\Debug\W9LL_Marketing_Instagram.Settings.resources

@@ -1,0 +1,40 @@
+9/11/2019 1:28:53 AM:	Request: https://i.instagram.com/
+9/11/2019 1:28:53 AM:	Response: GET https://www.instagram.com/ [OK]
+9/11/2019 1:28:53 AM:	Content:
+9/11/2019 1:28:53 AM:	got html content!
+9/11/2019 1:28:53 AM:	Response: GET https://www.instagram.com/ [OK]
+9/11/2019 1:28:54 AM:	Content:
+9/11/2019 1:28:54 AM:	got html content!
+9/11/2019 1:28:54 AM:	----------------------------------------------------------------------------------------------------
+9/11/2019 1:28:54 AM:	Request: POST https://i.instagram.com/api/v1/accounts/login/
+9/11/2019 1:28:54 AM:	Headers:
+9/11/2019 1:28:54 AM:	Accept-Language:["en-US"]
+9/11/2019 1:28:54 AM:	X-IG-Capabilities:["3brTvw=="]
+9/11/2019 1:28:54 AM:	X-IG-Connection-Type:["WIFI"]
+9/11/2019 1:28:54 AM:	User-Agent:["Instagram","86.0.0.24.87","Android","(25/7.1; 640dpi; 1440x2560; samsung; tbltecan; tbltecan; SM-N915W8; en_US; 147375143)"]
+9/11/2019 1:28:54 AM:	X-IG-App-ID:["567067343352427"]
+9/11/2019 1:28:54 AM:	Host:["i.instagram.com"]
+9/11/2019 1:28:54 AM:	Properties:
+{
+  "X-Google-AD-ID": "2985a764-916e-4db4-a4b2-27d2785bf308"
+}
+9/11/2019 1:28:54 AM:	Content:
+9/11/2019 1:28:54 AM:	signed_body=c34049b054da3609a381c013c7270e663f6b70d8a04770144f9ef3870803f988.{"phone_id":"5ee505f5-d507-4c83-91d0-eb70b6e2f962","username":"ahmed1amen.i","adid":"6a603871-f21a-42b9-a82a-fd1de72c7ba4","guid":"6a55b3b3-331c-450b-b335-49b019724624","device_id":"android-eeb55bf12fcac5b4","_uuid":"6a55b3b3-331c-450b-b335-49b019724624","google_tokens":"[]","password":"esraamysoul51119999","login_attempt_count":"1"}&ig_sig_key_version=4
+9/11/2019 1:28:57 AM:	Response: POST https://i.instagram.com/api/v1/accounts/login/ [OK]
+9/11/2019 1:28:57 AM:	Content:
+9/11/2019 1:28:57 AM:	{"logged_in_user": {"pk": 3549670261, "username": "ahmed1amen.i", "full_name": "Ahmed Amen", "is_private": false, "profile_pic_url": "https://scontent-hbe1-1.cdninstagram.com/vp/d06ada3900a8ed0ba04c4fbaf8e05f32/5E14A167/t51.2885-19/s150x150/69886638_2471498692914402_7361316900141268992_n.jpg?_nc_ht=scontent-hbe1-1.cdninstagram.com", "profile_pic_id": "2119314945102490588_3549670261", "is_verified": false, "has_anonymous_profile_picture": false, "can_boost_post": false, "is_business": false, "account_type": 1, "is_call_to_action_enabled": null, "can_see_organic_insights": false, "show_insights_terms": false, "total_igtv_videos": 0, "reel_auto_archive": "on", "has_placed_orders": false, "allowed_commenter_type": "any", "nametag": {"mode": 0, "gradient": "2", "emoji": "\ud83d\ude00", "emoji_color": "-16777216", "selfie_sticker": "0"}, "allow_contacts_sync": false, "fbuid": "100021637433578", "phone_number": "+201066104107", "country_code": 20, "national_number": 1066104107}, "status": "ok"}
+9/11/2019 1:28:57 AM:	----------------------------------------------------------------------------------------------------
+9/11/2019 1:28:57 AM:	Request: GET https://i.instagram.com/api/v1/users/ahmed1amen.i/usernameinfo/
+9/11/2019 1:28:57 AM:	Headers:
+9/11/2019 1:28:57 AM:	Accept-Language:["en-US"]
+9/11/2019 1:28:57 AM:	X-IG-Capabilities:["3brTvw=="]
+9/11/2019 1:28:57 AM:	X-IG-Connection-Type:["WIFI"]
+9/11/2019 1:28:57 AM:	User-Agent:["Instagram","86.0.0.24.87","Android","(25/7.1; 640dpi; 1440x2560; samsung; tbltecan; tbltecan; SM-N915W8; en_US; 147375143)"]
+9/11/2019 1:28:57 AM:	X-IG-App-ID:["567067343352427"]
+9/11/2019 1:28:57 AM:	Properties:
+{
+  "X-Google-AD-ID": "2985a764-916e-4db4-a4b2-27d2785bf308"
+}
+9/11/2019 1:28:57 AM:	Response: GET https://i.instagram.com/api/v1/users/ahmed1amen.i/usernameinfo/ [OK]
+9/11/2019 1:28:57 AM:	Content:
+9/11/2019 1:28:57 AM:	{"user": {"pk": 3549670261, "username": "ahmed1amen.i", "full_name": "Ahmed Amen", "is_private": false, "profile_pic_url": "https://scontent-hbe1-1.cdninstagram.com/vp/d06ada3900a8ed0ba04c4fbaf8e05f32/5E14A167/t51.2885-19/s150x150/69886638_2471498692914402_7361316900141268992_n.jpg?_nc_ht=scontent-hbe1-1.cdninstagram.com", "profile_pic_id": "2119314945102490588_3549670261", "is_verified": false, "has_anonymous_profile_picture": false, "media_count": 81, "follower_count": 103, "following_count": 102, "following_tag_count": 0, "biography": "\u26abDr.Ahmed Amen \n\ud83d\udd34 Advanced Software Engineer\n\ud83d\udd35Cyber Security\n\u26abWork As a Freelancer\n\ud83d\udd36high mentality in Computer Science", "can_link_entities_in_bio": true, "biography_with_entities": {"raw_text": "\u26abDr.Ahmed Amen \n\ud83d\udd34 Advanced Software Engineer\n\ud83d\udd35Cyber Security\n\u26abWork As a Freelancer\n\ud83d\udd36high mentality in Computer Science", "entities": []}, "external_url": "", "can_boost_post": false, "can_see_organic_insights": false, "show_insights_terms": false, "can_convert_to_business": true, "can_create_sponsor_tags": false, "can_be_tagged_as_sponsor": false, "total_igtv_videos": 0, "reel_auto_archive": "on", "usertags_count": 4, "usertag_review_enabled": false, "has_recommend_accounts": false, "has_chaining": true, "hd_profile_pic_versions": [{"width": 320, "height": 320, "url": "https://scontent-hbe1-1.cdninstagram.com/vp/1b70ef0f2be0ff734e838aa3ee91224f/5E138B1F/t51.2885-19/s320x320/69886638_2471498692914402_7361316900141268992_n.jpg?_nc_ht=scontent-hbe1-1.cdninstagram.com"}, {"width": 640, "height": 640, "url": "https://scontent-hbe1-1.cdninstagram.com/vp/86a367399a029c9dd15ad66ed2f4e860/5E0DFCA4/t51.2885-19/s640x640/69886638_2471498692914402_7361316900141268992_n.jpg?_nc_ht=scontent-hbe1-1.cdninstagram.com"}], "hd_profile_pic_url_info": {"url": "https://scontent-hbe1-1.cdninstagram.com/vp/c92385c57e2a783f2e18255676e36e9c/5DFF3A1F/t51.2885-19/69886638_2471498692914402_7361316900141268992_n.jpg?_nc_ht=scontent-hbe1-1.cdninstagram.com", "width": 1019, "height": 1019}, "has_placed_orders": false, "show_conversion_edit_entry": true, "allowed_commenter_type": "any", "is_video_creator": false, "has_profile_video_feed": false, "eligible_shopping_signup_entrypoints": [], "is_business": false, "account_type": 1, "is_call_to_action_enabled": null}, "status": "ok"}

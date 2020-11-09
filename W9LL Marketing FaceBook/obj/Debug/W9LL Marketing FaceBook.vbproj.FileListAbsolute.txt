@@ -1,0 +1,114 @@
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\W9LL Marketing FaceBook.exe.config
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\W9LL Marketing FaceBook.exe
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\W9LL Marketing FaceBook.pdb
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\W9LL Marketing FaceBook.xml
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\AutoUpdater.NET.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\DevExpress.Data.v19.1.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\DevExpress.Dialogs.v19.1.Core.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\DevExpress.Utils.v19.1.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\DevExpress.XtraBars.v19.1.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\DevExpress.XtraDialogs.v19.1.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\Facebook.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\FacebookClientHTML.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\HtmlAgilityPack.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\Newtonsoft.Json.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\DevExpress.Office.v19.1.Core.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\DevExpress.Images.v19.1.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\AutoUpdater.NET.pdb
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\AutoUpdater.NET.xml
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\DevExpress.Data.v19.1.xml
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\DevExpress.XtraBars.v19.1.xml
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\DevExpress.XtraDialogs.v19.1.xml
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\Facebook.xml
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\HtmlAgilityPack.pdb
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\HtmlAgilityPack.xml
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\Newtonsoft.Json.xml
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\DevExpress.Office.v19.1.Core.xml
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\de\DevExpress.Dialogs.v19.1.Core.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\es\DevExpress.Dialogs.v19.1.Core.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\ja\DevExpress.Dialogs.v19.1.Core.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\ru\DevExpress.Dialogs.v19.1.Core.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\obj\Debug\W9LL_Marketing_FaceBook.frm_Activation.resources
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\obj\Debug\W9LL_Marketing_FaceBook.frm_FacebookApplication.resources
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\obj\Debug\W9LL_Marketing_FaceBook.frm_Friends_Adder.resources
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\obj\Debug\W9LL_Marketing_FaceBook.frm_Message_AutoSender.resources
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\obj\Debug\W9LL_Marketing_FaceBook.Resources.resources
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\obj\Debug\W9LL Marketing FaceBook.vbproj.GenerateResource.cache
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\obj\Debug\W9LL Marketing FaceBook.exe.licenses
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\obj\Debug\W9LL Marketing FaceBook.vbproj.CoreCompileInputs.cache
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\obj\Debug\W9LL Marketing FaceBook.vbproj.CopyComplete
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\obj\Debug\W9LL Marketing FaceBook.exe
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\obj\Debug\W9LL Marketing FaceBook.xml
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\obj\Debug\W9LL Marketing FaceBook.pdb
+D:\Wondershare\SocialMarketing - combing\Rakan\W9LL\W9ll Marketing\W9LL Marketing FaceBook\obj\Debug\W9LL Marketing FaceBook.vbprojAssemblyReference.cache

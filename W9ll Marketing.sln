@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Account Spliter", "Account Spliter\Account Spliter.vbproj", "{F2069304-B031-40C4-B913-60565BBFEF3B}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Downloader", "Downloader\Downloader.vbproj", "{623BFDBF-DF53-4511-A08F-2316BE20E4AE}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "W9LL Marketing FaceBook", "W9LL Marketing FaceBook\W9LL Marketing FaceBook.vbproj", "{E5C6FD6A-FC78-426B-B44C-AC5A911ABF13}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "W9LL Marketing Instagram", "W9LL Marketing Instagram\W9LL Marketing Instagram.vbproj", "{F2C80E49-DDA7-4661-8271-5D4F216A05B4}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Activator", "Activator\Activator.vbproj", "{2307983B-12DE-4455-82C2-AE98FADC88A8}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "W9LL Marketing Twitter", "W9LL Marketing Twitter\W9LL Marketing Twitter.vbproj", "{80DE1194-5196-4BE3-A5DB-C7464BCF756F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2069304-B031-40C4-B913-60565BBFEF3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2069304-B031-40C4-B913-60565BBFEF3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2069304-B031-40C4-B913-60565BBFEF3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2069304-B031-40C4-B913-60565BBFEF3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{623BFDBF-DF53-4511-A08F-2316BE20E4AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{623BFDBF-DF53-4511-A08F-2316BE20E4AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{623BFDBF-DF53-4511-A08F-2316BE20E4AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{623BFDBF-DF53-4511-A08F-2316BE20E4AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5C6FD6A-FC78-426B-B44C-AC5A911ABF13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5C6FD6A-FC78-426B-B44C-AC5A911ABF13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5C6FD6A-FC78-426B-B44C-AC5A911ABF13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5C6FD6A-FC78-426B-B44C-AC5A911ABF13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2C80E49-DDA7-4661-8271-5D4F216A05B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2C80E49-DDA7-4661-8271-5D4F216A05B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2C80E49-DDA7-4661-8271-5D4F216A05B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2C80E49-DDA7-4661-8271-5D4F216A05B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2307983B-12DE-4455-82C2-AE98FADC88A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2307983B-12DE-4455-82C2-AE98FADC88A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2307983B-12DE-4455-82C2-AE98FADC88A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2307983B-12DE-4455-82C2-AE98FADC88A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80DE1194-5196-4BE3-A5DB-C7464BCF756F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80DE1194-5196-4BE3-A5DB-C7464BCF756F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80DE1194-5196-4BE3-A5DB-C7464BCF756F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80DE1194-5196-4BE3-A5DB-C7464BCF756F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86AA9A6D-82C0-45B8-AE1D-8084D864E6B0}
+	EndGlobalSection
+EndGlobal
